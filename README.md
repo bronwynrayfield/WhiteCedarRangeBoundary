@@ -1,2 +1,2 @@
 # WhiteCedarRangeBoundary
-Scripts from Rayfield et al. (in press) Influence of habitat availability and fire disturbance on the northern range boundary of eastern white cedar (Thuja occidentalis L.). Journal of Biogeography. Data are available on Drayd (doi:10.5061/dryad.sbcc2fr4j)   
+Scripts from Rayfield et al. (2020) Influence of habitat availability and fire disturbance on a northern range boundary. Journal of Biogeography (doi:10.1111/jbi.14004). Data are available on Drayd (doi:10.5061/dryad.sbcc2fr4j)   
